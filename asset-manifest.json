@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d12b41f4.css",
-    "main.js": "/static/js/main.1cecbfa2.js",
+    "main.css": "/static/css/main.50e72435.css",
+    "main.js": "/static/js/main.73007347.js",
+    "static/js/442.29f129b8.chunk.js": "/static/js/442.29f129b8.chunk.js",
     "static/js/787.af394c79.chunk.js": "/static/js/787.af394c79.chunk.js",
+    "static/js/681.3dd4361f.chunk.js": "/static/js/681.3dd4361f.chunk.js",
     "static/media/anime-hayao-miyazaki-birthday-wallpapers-studio-ghibli-971.jpeg": "/static/media/anime-hayao-miyazaki-birthday-wallpapers-studio-ghibli-971.ad35ac8d2f068e1900fa.jpeg",
     "index.html": "/index.html",
-    "main.d12b41f4.css.map": "/static/css/main.d12b41f4.css.map",
-    "main.1cecbfa2.js.map": "/static/js/main.1cecbfa2.js.map",
-    "787.af394c79.chunk.js.map": "/static/js/787.af394c79.chunk.js.map"
+    "main.50e72435.css.map": "/static/css/main.50e72435.css.map",
+    "main.73007347.js.map": "/static/js/main.73007347.js.map",
+    "442.29f129b8.chunk.js.map": "/static/js/442.29f129b8.chunk.js.map",
+    "787.af394c79.chunk.js.map": "/static/js/787.af394c79.chunk.js.map",
+    "681.3dd4361f.chunk.js.map": "/static/js/681.3dd4361f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d12b41f4.css",
-    "static/js/main.1cecbfa2.js"
+    "static/css/main.50e72435.css",
+    "static/js/main.73007347.js"
   ]
 }
